@@ -20,3 +20,4 @@ for index, data in enumerate(data_urut):
 	
 data_urut.clear()
 print("g, Clear data : {}".format(data_urut))
+print("123456789")
